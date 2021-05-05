@@ -23,8 +23,6 @@
 
 ![avatar](https://cdn.kesci.com/upload/image/qbe28pnfwu.png?imageView2/0/w/960/h/960)
 
-![avatar](https://cdn.kesci.com/upload/image/qbe28pnfwu.png?imageView2/0/w/960/h/960)
-
 
 【信用卡客户画像总结分析】：
 
@@ -88,7 +86,7 @@
                 1) 客户放款前近一年总结息（反应实际存款数额）
 
                 2) 收支比（反应客户消费水平）
-                
+
                 3) 可用余额变异系数（反应客户生活状态稳定系数）
 
 
